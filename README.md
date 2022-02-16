@@ -1,4 +1,4 @@
 # hello-pipelines
 Simple set of .Net Core 3.0 projects used to try out Azure Pipelines concepts.
 
-[![Build Status](https://dev.azure.com/julioc0382/hello-pipelines/_apis/build/status/julioct.hello-pipelines?branchName=master)](https://dev.azure.com/julioc0382/hello-pipelines/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/dhanikadig/hello-pipelines/_apis/build/status/DTMunasinghe.azure-CI-CD-feb16-2022?branchName=main)](https://dev.azure.com/dhanikadig/hello-pipelines/_build/latest?definitionId=2&branchName=main)
